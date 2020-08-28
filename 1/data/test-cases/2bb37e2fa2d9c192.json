@@ -1,0 +1,95 @@
+{
+  "uid" : "2bb37e2fa2d9c192",
+  "name" : "Simple failed test",
+  "fullName" : "Buildin allure for spec in js:.Simple failed test",
+  "historyId" : "9ae3df694221fc573ca3a86d56dc201a",
+  "time" : {
+    "start" : 1598595242807,
+    "stop" : 1598595242844,
+    "duration" : 37
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "The expression evaluated to a falsy value:\n                \n                  assert(false)\n                ",
+  "statusTrace" : "AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n                \n                  assert(false)\n                \n                    at Dummy.failedStep (/home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/helpers/dummy.js:8:11)\n                    at Step.run (/home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/node_modules/codeceptjs/lib/step.js:70:47)\n                    at /home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/node_modules/codeceptjs/lib/actor.js:92:23",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "The expression evaluated to a falsy value:\n                \n                  assert(false)\n                ",
+    "statusTrace" : "AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n                \n                  assert(false)\n                \n                    at Dummy.failedStep (/home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/helpers/dummy.js:8:11)\n                    at Step.run (/home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/node_modules/codeceptjs/lib/step.js:70:47)\n                    at /home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/node_modules/codeceptjs/lib/actor.js:92:23",
+    "steps" : [ {
+      "name" : "I passed step ",
+      "time" : {
+        "start" : 1598595242808,
+        "stop" : 1598595242808,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I failed step ",
+      "time" : {
+        "start" : 1598595242808,
+        "stop" : 1598595242843,
+        "duration" : 35
+      },
+      "status" : "failed",
+      "statusMessage" : "AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n                \n                  assert(false)\n                \n                    at Dummy.failedStep (/home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/helpers/dummy.js:8:11)\n                    at Step.run (/home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/node_modules/codeceptjs/lib/step.js:70:47)\n                    at /home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/node_modules/codeceptjs/lib/actor.js:92:23",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Buildin allure for spec in js:"
+  }, {
+    "name" : "testClass",
+    "value" : "Buildin allure for spec in js:"
+  }, {
+    "name" : "testMethod",
+    "value" : "Simple failed test"
+  }, {
+    "name" : "package",
+    "value" : "Buildin allure for spec in js:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "2bb37e2fa2d9c192.json",
+  "parameterValues" : [ ]
+}

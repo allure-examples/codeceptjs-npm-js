@@ -1,0 +1,59 @@
+{
+  "uid" : "9112960b13e50c6e",
+  "name" : "Parametrized test with labels | {\"first\":2,\"second\":\"bravo\",\"third\":false}",
+  "fullName" : "Buildin allure for js:.Parametrized test with labels | {\"first\":2,\"second\":\"bravo\",\"third\":false}",
+  "historyId" : "33cdd5c41993fec04cfa4bcaef65e9d1",
+  "time" : {
+    "start" : 1598595242804,
+    "stop" : 1598595242804,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "assert is not defined",
+  "statusTrace" : "ReferenceError: assert is not defined\n                    at Test.<anonymous> (/home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/specs/data.spec.js:14:3)\n                    at Context.test.fn (/home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/node_modules/codeceptjs/lib/scenario.js:78:14)\n                    at callFnAsync (/home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/node_modules/mocha/lib/runnable.js:415:21)\n                    at Test.Runnable.run (/home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/node_modules/mocha/lib/runnable.js:357:7)\n                    at Runner.runTest (/home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/node_modules/mocha/lib/runner.js:535:10)\n                    at /home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/node_modules/mocha/lib/runner.js:653:12\n                    at next (/home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/node_modules/mocha/lib/runner.js:447:14)\n                    at /home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/node_modules/mocha/lib/runner.js:457:7\n                    at next (/home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/node_modules/mocha/lib/runner.js:362:14)\n                    at /home/runner/work/allure-js-codeceptjs/allure-js-codeceptjs/node_modules/mocha/lib/runner.js:420:7",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Feature example"
+  }, {
+    "name" : "owner",
+    "value" : "bravo"
+  }, {
+    "name" : "suite",
+    "value" : "Buildin allure for js:"
+  }, {
+    "name" : "testClass",
+    "value" : "Buildin allure for js:"
+  }, {
+    "name" : "testMethod",
+    "value" : "Parametrized test with labels | {\"first\":2,\"second\":\"bravo\",\"third\":false}"
+  }, {
+    "name" : "package",
+    "value" : "Buildin allure for js:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "owner" : "bravo",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "9112960b13e50c6e.json",
+  "parameterValues" : [ ]
+}

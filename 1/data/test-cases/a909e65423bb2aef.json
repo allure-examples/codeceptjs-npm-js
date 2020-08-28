@@ -1,0 +1,71 @@
+{
+  "uid" : "a909e65423bb2aef",
+  "name" : "Simple passed test",
+  "fullName" : "Buildin allure for spec in js:.Simple passed test",
+  "historyId" : "4568e6fbfaa7f405c005ef03b57fb3aa",
+  "time" : {
+    "start" : 1598595242807,
+    "stop" : 1598595242807,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "I passed step ",
+      "time" : {
+        "start" : 1598595242807,
+        "stop" : 1598595242807,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Buildin allure for spec in js:"
+  }, {
+    "name" : "testClass",
+    "value" : "Buildin allure for spec in js:"
+  }, {
+    "name" : "testMethod",
+    "value" : "Simple passed test"
+  }, {
+    "name" : "package",
+    "value" : "Buildin allure for spec in js:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a909e65423bb2aef.json",
+  "parameterValues" : [ ]
+}

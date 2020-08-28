@@ -1,0 +1,78 @@
+{
+  "uid" : "6584e9634825b7f4",
+  "name" : "Passed test with labels",
+  "fullName" : "Buildin allure for js-spec:.Passed test with labels",
+  "historyId" : "c00951ba2c8aca6e47bc2b02a083d332",
+  "time" : {
+    "start" : 1598595242792,
+    "stop" : 1598595242794,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "I passed step ",
+      "time" : {
+        "start" : 1598595242794,
+        "stop" : 1598595242794,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Feature example"
+  }, {
+    "name" : "owner",
+    "value" : "eroshenkoam"
+  }, {
+    "name" : "suite",
+    "value" : "Buildin allure for js-spec:"
+  }, {
+    "name" : "testClass",
+    "value" : "Buildin allure for js-spec:"
+  }, {
+    "name" : "testMethod",
+    "value" : "Passed test with labels"
+  }, {
+    "name" : "package",
+    "value" : "Buildin allure for js-spec:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "owner" : "eroshenkoam",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6584e9634825b7f4.json",
+  "parameterValues" : [ ]
+}
