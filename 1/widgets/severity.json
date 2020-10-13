@@ -1,59 +1,59 @@
 [ {
-  "uid" : "a909e65423bb2aef",
-  "name" : "Simple passed test",
-  "time" : {
-    "start" : 1598595242807,
-    "stop" : 1598595242807,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9d5383bf54fcab1c",
-  "name" : "Parametrized test with labels | {\"first\":1,\"second\":\"alpha\",\"third\":true}",
-  "time" : {
-    "start" : 1598595242802,
-    "stop" : 1598595242802,
-    "duration" : 0
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "9112960b13e50c6e",
-  "name" : "Parametrized test with labels | {\"first\":2,\"second\":\"bravo\",\"third\":false}",
-  "time" : {
-    "start" : 1598595242804,
-    "stop" : 1598595242804,
-    "duration" : 0
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "6584e9634825b7f4",
-  "name" : "Passed test with labels",
-  "time" : {
-    "start" : 1598595242792,
-    "stop" : 1598595242794,
-    "duration" : 2
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2bb37e2fa2d9c192",
+  "uid" : "53434216e03fcba6",
   "name" : "Simple failed test",
   "time" : {
-    "start" : 1598595242807,
-    "stop" : 1598595242844,
-    "duration" : 37
+    "start" : 1602557217905,
+    "stop" : 1602557217930,
+    "duration" : 25
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "f8853ab92f705b47",
+  "uid" : "b414f28bfba08495",
+  "name" : "Parametrized test with labels | {\"first\":1,\"second\":\"alpha\",\"third\":true}",
+  "time" : {
+    "start" : 1602557217899,
+    "stop" : 1602557217900,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "eff82f7f566f6ad1",
+  "name" : "Passed test with labels",
+  "time" : {
+    "start" : 1602557217890,
+    "stop" : 1602557217893,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff5b8e3d382fefdd",
+  "name" : "Parametrized test with labels | {\"first\":2,\"second\":\"bravo\",\"third\":false}",
+  "time" : {
+    "start" : 1602557217901,
+    "stop" : 1602557217901,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "52ef1d1c615bc521",
+  "name" : "Simple passed test",
+  "time" : {
+    "start" : 1602557217904,
+    "stop" : 1602557217905,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2772def0cf9aabb",
   "name" : "Parametrized test with labels | {\"first\":3,\"second\":\"charlie\"}",
   "time" : {
-    "start" : 1598595242801,
-    "stop" : 1598595242801,
+    "start" : 1602557217899,
+    "stop" : 1602557217899,
     "duration" : 0
   },
   "status" : "skipped",

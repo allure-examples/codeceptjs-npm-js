@@ -1,5 +1,17 @@
 [ {
   "buildOrder" : 1,
+  "reportUrl" : "https://allure-examples.github.io/allure-javascript-codeceptjs/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 3,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 2,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
+  "buildOrder" : 1,
   "reportUrl" : "https://allure-examples.github.io/allure-js-codeceptjs/1/",
   "reportName" : "Allure Report with history",
   "data" : {

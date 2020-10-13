@@ -4,13 +4,13 @@
     "name" : "Buildin allure for js-spec:",
     "children" : [ {
       "name" : "Passed test with labels",
-      "uid" : "6584e9634825b7f4",
+      "uid" : "eff82f7f566f6ad1",
       "parentUid" : "ecfcf09e0c77b1b88cf2bc56aa4e3958",
       "status" : "passed",
       "time" : {
-        "start" : 1598595242792,
-        "stop" : 1598595242794,
-        "duration" : 2
+        "start" : 1602557217890,
+        "stop" : 1602557217893,
+        "duration" : 3
       },
       "flaky" : false,
       "newFailed" : false,
@@ -20,26 +20,26 @@
   }, {
     "name" : "Buildin allure for js:",
     "children" : [ {
-      "name" : "Parametrized test with labels | {\"first\":3,\"second\":\"charlie\"}",
-      "uid" : "f8853ab92f705b47",
+      "name" : "Parametrized test with labels | {\"first\":1,\"second\":\"alpha\",\"third\":true}",
+      "uid" : "b414f28bfba08495",
       "parentUid" : "84a6dbb02ce9e57a01784d91479c68b6",
-      "status" : "skipped",
+      "status" : "failed",
       "time" : {
-        "start" : 1598595242801,
-        "stop" : 1598595242801,
-        "duration" : 0
+        "start" : 1602557217899,
+        "stop" : 1602557217900,
+        "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
-      "name" : "Parametrized test with labels | {\"first\":1,\"second\":\"alpha\",\"third\":true}",
-      "uid" : "9d5383bf54fcab1c",
+      "name" : "Parametrized test with labels | {\"first\":3,\"second\":\"charlie\"}",
+      "uid" : "b2772def0cf9aabb",
       "parentUid" : "84a6dbb02ce9e57a01784d91479c68b6",
-      "status" : "failed",
+      "status" : "skipped",
       "time" : {
-        "start" : 1598595242802,
-        "stop" : 1598595242802,
+        "start" : 1602557217899,
+        "stop" : 1602557217899,
         "duration" : 0
       },
       "flaky" : false,
@@ -47,12 +47,12 @@
       "parameters" : [ ]
     }, {
       "name" : "Parametrized test with labels | {\"first\":2,\"second\":\"bravo\",\"third\":false}",
-      "uid" : "9112960b13e50c6e",
+      "uid" : "ff5b8e3d382fefdd",
       "parentUid" : "84a6dbb02ce9e57a01784d91479c68b6",
       "status" : "failed",
       "time" : {
-        "start" : 1598595242804,
-        "stop" : 1598595242804,
+        "start" : 1602557217901,
+        "stop" : 1602557217901,
         "duration" : 0
       },
       "flaky" : false,
@@ -63,27 +63,27 @@
   }, {
     "name" : "Buildin allure for spec in js:",
     "children" : [ {
-      "name" : "Simple failed test",
-      "uid" : "2bb37e2fa2d9c192",
+      "name" : "Simple passed test",
+      "uid" : "52ef1d1c615bc521",
       "parentUid" : "598d40a3496b494499b2cf1c5a9b4cf5",
-      "status" : "failed",
+      "status" : "passed",
       "time" : {
-        "start" : 1598595242807,
-        "stop" : 1598595242844,
-        "duration" : 37
+        "start" : 1602557217904,
+        "stop" : 1602557217905,
+        "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
-      "name" : "Simple passed test",
-      "uid" : "a909e65423bb2aef",
+      "name" : "Simple failed test",
+      "uid" : "53434216e03fcba6",
       "parentUid" : "598d40a3496b494499b2cf1c5a9b4cf5",
-      "status" : "passed",
+      "status" : "failed",
       "time" : {
-        "start" : 1598595242807,
-        "stop" : 1598595242807,
-        "duration" : 0
+        "start" : 1602557217905,
+        "stop" : 1602557217930,
+        "duration" : 25
       },
       "flaky" : false,
       "newFailed" : false,

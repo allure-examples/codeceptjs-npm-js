@@ -1,0 +1,69 @@
+{
+  "uid" : "b2772def0cf9aabb",
+  "name" : "Parametrized test with labels | {\"first\":3,\"second\":\"charlie\"}",
+  "fullName" : "Buildin allure for js:.Parametrized test with labels | {\"first\":3,\"second\":\"charlie\"}",
+  "historyId" : "42e5ec4a309bf959b4d98cfa6b90ec04",
+  "time" : {
+    "start" : 1602557217899,
+    "stop" : 1602557217899,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Buildin allure for js:"
+  }, {
+    "name" : "testClass",
+    "value" : "Buildin allure for js:"
+  }, {
+    "name" : "testMethod",
+    "value" : "Parametrized test with labels | {\"first\":3,\"second\":\"charlie\"}"
+  }, {
+    "name" : "package",
+    "value" : "Buildin allure for js:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 2,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "f8853ab92f705b47",
+        "reportUrl" : "https://allure-examples.github.io/allure-js-codeceptjs/1//#testresult/f8853ab92f705b47",
+        "status" : "skipped",
+        "statusDetails" : "Test ignored",
+        "time" : {
+          "start" : 1598595242801,
+          "stop" : 1598595242801,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b2772def0cf9aabb.json",
+  "parameterValues" : [ ]
+}

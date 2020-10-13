@@ -1,14 +1,24 @@
 {
   "33cdd5c41993fec04cfa4bcaef65e9d1" : {
     "statistic" : {
-      "failed" : 1,
+      "failed" : 2,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "ff5b8e3d382fefdd",
+      "reportUrl" : "https://allure-examples.github.io/allure-javascript-codeceptjs/1//#testresult/ff5b8e3d382fefdd",
+      "status" : "failed",
+      "statusDetails" : "assert is not defined",
+      "time" : {
+        "start" : 1602557217901,
+        "stop" : 1602557217901,
+        "duration" : 0
+      }
+    }, {
       "uid" : "9112960b13e50c6e",
       "reportUrl" : "https://allure-examples.github.io/allure-js-codeceptjs/1//#testresult/9112960b13e50c6e",
       "status" : "failed",
@@ -25,11 +35,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "52ef1d1c615bc521",
+      "reportUrl" : "https://allure-examples.github.io/allure-javascript-codeceptjs/1//#testresult/52ef1d1c615bc521",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602557217904,
+        "stop" : 1602557217905,
+        "duration" : 1
+      }
+    }, {
       "uid" : "a909e65423bb2aef",
       "reportUrl" : "https://allure-examples.github.io/allure-js-codeceptjs/1//#testresult/a909e65423bb2aef",
       "status" : "passed",
@@ -45,11 +64,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "eff82f7f566f6ad1",
+      "reportUrl" : "https://allure-examples.github.io/allure-javascript-codeceptjs/1//#testresult/eff82f7f566f6ad1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602557217890,
+        "stop" : 1602557217893,
+        "duration" : 3
+      }
+    }, {
       "uid" : "6584e9634825b7f4",
       "reportUrl" : "https://allure-examples.github.io/allure-js-codeceptjs/1//#testresult/6584e9634825b7f4",
       "status" : "passed",
@@ -62,14 +90,24 @@
   },
   "9ae3df694221fc573ca3a86d56dc201a" : {
     "statistic" : {
-      "failed" : 1,
+      "failed" : 2,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "53434216e03fcba6",
+      "reportUrl" : "https://allure-examples.github.io/allure-javascript-codeceptjs/1//#testresult/53434216e03fcba6",
+      "status" : "failed",
+      "statusDetails" : "The expression evaluated to a falsy value:\n                \n                  assert(false)\n                ",
+      "time" : {
+        "start" : 1602557217905,
+        "stop" : 1602557217930,
+        "duration" : 25
+      }
+    }, {
       "uid" : "2bb37e2fa2d9c192",
       "reportUrl" : "https://allure-examples.github.io/allure-js-codeceptjs/1//#testresult/2bb37e2fa2d9c192",
       "status" : "failed",
@@ -83,14 +121,24 @@
   },
   "e0d391f6cd563dbaed81786fdde44022" : {
     "statistic" : {
-      "failed" : 1,
+      "failed" : 2,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "b414f28bfba08495",
+      "reportUrl" : "https://allure-examples.github.io/allure-javascript-codeceptjs/1//#testresult/b414f28bfba08495",
+      "status" : "failed",
+      "statusDetails" : "assert is not defined",
+      "time" : {
+        "start" : 1602557217899,
+        "stop" : 1602557217900,
+        "duration" : 1
+      }
+    }, {
       "uid" : "9d5383bf54fcab1c",
       "reportUrl" : "https://allure-examples.github.io/allure-js-codeceptjs/1//#testresult/9d5383bf54fcab1c",
       "status" : "failed",
@@ -106,12 +154,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "b2772def0cf9aabb",
+      "reportUrl" : "https://allure-examples.github.io/allure-javascript-codeceptjs/1//#testresult/b2772def0cf9aabb",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1602557217899,
+        "stop" : 1602557217899,
+        "duration" : 0
+      }
+    }, {
       "uid" : "f8853ab92f705b47",
       "reportUrl" : "https://allure-examples.github.io/allure-js-codeceptjs/1//#testresult/f8853ab92f705b47",
       "status" : "skipped",
